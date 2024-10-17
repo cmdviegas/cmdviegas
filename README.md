@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ## What I have been coding lately:  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdviegas&layout=compact&hide=html,css,cmake&langs_count=6)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdviegas&layout=compact&hide=html,css,cmake&langs_count=6)](https://github.com/cmdviegas/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdviegas&layout=compact&hide=html,css,cmake&langs_count=6)
