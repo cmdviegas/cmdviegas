@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 I'm Engineer by nature, 
 Computer Engineer by education,
@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## What I have been coding lately:  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdviegas&layout=compact&hide=html,css,cmake&langs_count=6)
