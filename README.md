@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm Assistant professor at the Department of Computing Engineering and Automation of Federal University of Rio Grande do Norte, Natal/RN, Brazil.
+I'm Engineer by nature, 
+Computer Engineer by education,
+Data Engineer by experience.
+
+Currently, I'm Assistant professor at the Department of Computing Engineering and Automation of Federal University of Rio Grande do Norte, Natal/RN, Brazil.
 
 <!--
 **cmdviegas/cmdviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
