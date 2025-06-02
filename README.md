@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmdviegas&layout=compact&hide=html,css,cmake&langs_count=6)
+
+My skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,bash,aws,c,cpp,debian,docker,git,github,kafka,kali,latex,linux,mongodb,)](https://skillicons.dev)
